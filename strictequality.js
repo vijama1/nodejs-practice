@@ -1,9 +1,9 @@
 // Setup
 function testStrict(val) {
   if (val===7) { // Change this line
-    return "Equal";
+    return "Equal values";
   }
-  return "Not Equal";
+  return "Not Equal values";
 }
 
 // Change this value to test
